@@ -1,0 +1,22 @@
+﻿  JohnStipichGLAssignment4.cpp
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(26): warning C4101: 'k': unreferenced local variable
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(167): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(182): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(183): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(233): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(234): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(235): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(246): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(258): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(270): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(282): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(295): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(308): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(377): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(378): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(390): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(402): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(426): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(496): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\JohnStipichGLAssignment4\JohnStipichGLAssignment4.cpp(572): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  JohnStipichGLAssignment4.vcxproj -> C:\Users\John Stipich\source\repos\JohnStipichGLAssignment4\Debug\JohnStipichGLAssignment4.exe
